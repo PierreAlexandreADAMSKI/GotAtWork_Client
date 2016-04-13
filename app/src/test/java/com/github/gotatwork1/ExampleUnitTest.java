@@ -1,4 +1,4 @@
-package com.github.gotatwork1;
+package com.github.gotatwork_client;
 
 import org.junit.Test;
 
